@@ -43,7 +43,7 @@ Você pode abrir e executar este projeto diretamente no Google Colab com o link 
 Desenvolvido por **Guilherme Felix Araujo da Silva **  
 
 📧 Contato: Linkedin ** www.linkedin.com/in/guilherme-felix-araujo-da-silva-618626295 **
-Emai-l ** guilherme.analyst@outlook.com **
+email ** guilherme.analyst@outlook.com **
 ---
 
 ## 📄 Licença
