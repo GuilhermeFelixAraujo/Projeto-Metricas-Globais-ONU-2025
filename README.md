@@ -10,7 +10,7 @@ O objetivo é gerar **insights sobre economia, desenvolvimento humano, desiguald
 
 Você pode abrir e executar este projeto diretamente no Google Colab com o link abaixo:
 
-➡️ [🔗 Abrir no Google Colab](https://colab.research.google.com/github/GuilhermeFelixAraujo/Projeto-Metricas-Globais-ONU-2025/blob/main/Projeto_de_Métricas_Globais_da_ONU_2025.ipynb)
+➡️ [🔗 Abrir no Google Colab](https://colab.research.google.com/github/GuilhermeFelixAraujo/Projeto-Metricas-Globais-ONU-2025/blob/main/Projeto_de_Métricas_Globais_da_ONU_2025-2.ipynb)
 
 > Obs: Rode todas as células para visualizar os gráficos interativos!
 
